@@ -1,0 +1,7 @@
+name: amouravski_hop_tasks
+version: 0.0.1
+description: A collection of tasks for hop.dart.
+author: Andrei Mouravski <amouravski@google.com>
+homepage: https://github.com/amouravski/hop_tasks
+dependencies:
+  hop: 0.20.0
