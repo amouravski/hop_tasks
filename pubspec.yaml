@@ -5,3 +5,4 @@ author: Andrei Mouravski <amouravski@google.com>
 homepage: https://github.com/amouravski/hop_tasks
 dependencies:
   hop: 0.20.0
+  pathos: 0.4.5+1
